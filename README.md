@@ -5,7 +5,7 @@ A store inventory application running on node. This application functions from t
 ### Examples
 
 ### Initial View
-(img/initial view.png)
+![Initial View](img/initial view.png)
 
 ### Purchasing and persistent database
-(img/purchase products.png)
+![Purchasing and persistent database](img/purchase products.png)
